@@ -1,0 +1,15 @@
+﻿advanced_torture_unique_slot_01_effect = {
+ trigger_event = { id = advanced_torture_agot.0200 }
+}
+
+advanced_torture_unique_slot_02_effect = {
+}
+
+advanced_torture_unique_slot_03_effect = {
+}
+
+advanced_torture_unique_slot_04_effect = {
+}
+
+advanced_torture_unique_slot_05_effect = {
+}

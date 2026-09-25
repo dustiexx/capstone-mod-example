@@ -1,0 +1,49 @@
+﻿l_russian:
+ advanced_torture_interaction:0 "Изысканная пытка"
+ advanced_torture_interaction_desc:0 "Подвергнуть [recipient.GetShortUINameNoTooltip] выбранному мучению через меню изысканных пыток."
+
+ advanced_torture_cooldown:0 "Недавно пытали"
+ advanced_torture_cooldown_desc:0 "Этого персонажа недавно пытали, и пока его нельзя подвергнуть новой сессии изысканных пыток."
+
+ advanced_torture_recently_tortured:0 "Недавно пытали"
+ advanced_torture_recently_tortured_desc:0 "Этот персонаж недавно перенёс пытку. Боль, страх и раны всё ещё тяготят тело и дух."
+
+ advanced_torture_recovery_minor:0 "Восстановление после лёгкой пытки"
+ advanced_torture_recovery_minor_desc:0 "Этот персонаж оправляется от лёгкого мучения. Следы видны, но ущерб не кажется необратимым."
+
+ advanced_torture_recovery_medium:0 "Восстановление после умеренной пытки"
+ advanced_torture_recovery_medium_desc:0 "Этот персонаж оправляется от серьёзной пытки. Тело всё ещё ослаблено, а разум помнит испытание."
+
+ advanced_torture_recovery_severe:0 "Восстановление после жестокой пытки"
+ advanced_torture_recovery_severe_desc:0 "Этот персонаж несёт последствия жестокой пытки. Раны, страх и унижение оставили глубокий след."
+
+ advanced_torture_tortured_me_opinion:0 "Пытал меня"
+ advanced_torture_tortured_family_member_opinion:0 "Пытал члена семьи"
+
+ advanced_torture_house_relation_torture_minor_desc:0 "Лёгкая пытка члена дома"
+ advanced_torture_house_relation_torture_medium_desc:0 "Пытка члена дома"
+ advanced_torture_house_relation_torture_severe_desc:0 "Жестокая пытка члена дома"
+
+ advanced_torture.menu.back:0 "Назад"
+ advanced_torture_unique_slot_01:0 "Пытки драконов"
+ advanced_torture_unique_slot_02:0 "Культурные пытки"
+ advanced_torture_unique_slot_03:0 "Домовые пытки"
+ advanced_torture_unique_slot_04:0 "Пустой слот для особых пыток"
+ advanced_torture_unique_slot_05:0 "Пустой слот для особых пыток"
+
+ advanced_torture_light_torture_tt:0 "Лёгкая пытка. Наносит незначительный вред, унижение и обиду, но редко оставляет постоянные последствия."
+ advanced_torture_medium_torture_tt:0 "Умеренная пытка. Может вызвать раны, физическое истощение, долговременный страх и повышенный шанс раскрыть секреты."
+ advanced_torture_strong_torture_tt:0 "Жестокая пытка. Может оставить тяжёлые последствия: увечья, болезни, психические травмы или даже случайную смерть."
+ advanced_torture_sadistic_torture_tt:0 "Садистская пытка. Только те, кто обладает исключительной жестокостью, могут приказывать такие мучения без колебаний."
+ advanced_torture_enucleation_tt:0 "Вырвать один глаз узника. Нельзя применять к персонажам, у которых уже один глаз или которые слепы."
+ advanced_torture_leg_amputation_tt:0 "Ампутировать одну ногу узника. Нельзя применять к персонажам, которые уже потеряли ногу."
+ advanced_torture_tortured_to_survive:0 "Выживший после пытки"
+ advanced_torture_tortured_to_survive_desc:0 "Этот узник удерживается на грани смерти искусным мучителем — не из милосердия, а чтобы продлить мучения."
+ advanced_torture_tortured_me_light_opinion:0 "Пытал меня"
+ advanced_torture_tortured_me_medium_opinion:0 "Пытал меня"
+ advanced_torture_tortured_me_severe_opinion:0 "Пытал меня"
+ advanced_torture_tortured_me_sadistic_opinion:0 "Пытал меня"
+ advanced_torture_tortured_family_member_light_opinion:0 "Пытал члена семьи"
+ advanced_torture_tortured_family_member_medium_opinion:0 "Пытал члена семьи"
+ advanced_torture_tortured_family_member_severe_opinion:0 "Пытал члена семьи"
+ advanced_torture_tortured_family_member_sadistic_opinion:0 "Пытал члена семьи"

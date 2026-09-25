@@ -1,0 +1,68 @@
+﻿l_spanish:
+ advanced_torture.scene.proceed:0 "Que comience."
+
+ advanced_torture.7001.t:0 "Azotes"
+ advanced_torture.7001.desc:0 "Los guardias arrastran a [advanced_torture_prisoner.GetShortUIName] hasta un poste húmedo de la mazmorra. Las correas se ajustan alrededor de sus muñecas mientras el látigo se desenrolla lentamente sobre la piedra."
+
+ advanced_torture.7002.t:0 "Marca con hierro candente"
+ advanced_torture.7002.desc:0 "El brasero arde en la cámara. Uno de los carceleros toma el hierro y lo deja sobre las brasas hasta que el metal empieza a brillar. [advanced_torture_prisoner.GetShortUIName] comprende el castigo antes de sentirlo."
+
+ advanced_torture.7003.t:0 "Cepo de pies"
+ advanced_torture.7003.desc:0 "El cepo se abre con un crujido pesado. Los guardias obligan a [advanced_torture_prisoner.GetShortUIName] a sentarse sobre la piedra fría y colocan sus tobillos entre la madera gastada."
+
+ advanced_torture.7004.t:0 "Paseo de vergüenza"
+ advanced_torture.7004.desc:0 "La puerta de la celda se abre. Los guardias preparan a [advanced_torture_prisoner.GetShortUIName] para ser mostrado ante otros, no como noble ni prisionero honorable, sino como advertencia viviente."
+
+ advanced_torture.7011.t:0 "Bastinado"
+ advanced_torture.7011.desc:0 "Los pies de [advanced_torture_prisoner.GetShortUIName] son inmovilizados con firmeza. Las varas se colocan junto al banco, listas para convertir cada paso futuro en recuerdo del castigo."
+
+ advanced_torture.7012.t:0 "Tormento del agua"
+ advanced_torture.7012.desc:0 "Los carceleros preparan una tela empapada y varias jarras de agua. [advanced_torture_prisoner.GetShortUIName] es inclinado hacia atrás, con el rostro expuesto y las manos sujetas por cadenas."
+
+ advanced_torture.7013.t:0 "Cordeles de compresión"
+ advanced_torture.7013.desc:0 "Los cordeles son desenrollados sobre una mesa pequeña. Parecen inofensivos, pero los guardias los manejan con la precisión de quien sabe que no hace falta una hoja para causar dolor."
+
+ advanced_torture.7014.t:0 "Garrucha"
+ advanced_torture.7014.desc:0 "La cuerda cuelga desde una polea vieja. Los guardias atan las manos de [advanced_torture_prisoner.GetShortUIName] a la espalda y comprueban el peso del mecanismo antes de izarlo."
+
+ advanced_torture.7015.t:0 "Aplastapulgares"
+ advanced_torture.7015.desc:0 "El pequeño instrumento de hierro se coloca sobre la mesa. [advanced_torture_prisoner.GetShortUIName] mira sus propias manos mientras los carceleros preparan el tornillo con inquietante calma."
+
+ advanced_torture.7016.t:0 "Banco de estiramiento corto"
+ advanced_torture.7016.desc:0 "El banco no tiene la grandeza del potro, pero sus correas son firmes y cercanas. [advanced_torture_prisoner.GetShortUIName] es tendido sobre la madera, con muñecas y tobillos preparados para la tensión."
+
+ advanced_torture.7021.t:0 "Potro de tensión"
+ advanced_torture.7021.desc:0 "El potro domina la cámara como una máquina de obediencia. Los guardias atan a [advanced_torture_prisoner.GetShortUIName] por muñecas y tobillos mientras el mecanismo espera la primera vuelta."
+
+ advanced_torture.7022.t:0 "Bota de cuñas"
+ advanced_torture.7022.desc:0 "La pierna de [advanced_torture_prisoner.GetShortUIName] es colocada dentro de la bota de madera y hierro. Las cuñas descansan cerca, listas para ser introducidas golpe a golpe."
+
+ advanced_torture.7023.t:0 "Suplicio de las ratas"
+ advanced_torture.7023.desc:0 "Los carceleros traen un recipiente cerrado del que salen arañazos inquietos. [advanced_torture_prisoner.GetShortUIName] se tensa al escuchar el movimiento en su interior."
+
+ advanced_torture.7024.t:0 "Enucleación"
+ advanced_torture.7024.desc:0 "Los instrumentos se colocan bajo la luz fría de la mazmorra. Los guardias sujetan la cabeza de [advanced_torture_prisoner.GetShortUIName], impidiendo cualquier intento de apartar la mirada."
+
+ advanced_torture.7025.t:0 "Amputación de pierna"
+ advanced_torture.7025.desc:0 "La cámara se prepara como una sala de castigo y mutilación. Las correas se ajustan con fuerza y los instrumentos se disponen junto a [advanced_torture_prisoner.GetShortUIName]."
+
+ advanced_torture.7026.t:0 "Limpiador de uñas"
+ advanced_torture.7026.desc:0 "Los estiletes se alinean sobre la mesa como agujas de metal frío. Los guardias fuerzan las manos de [advanced_torture_prisoner.GetShortUIName] hacia delante."
+
+ advanced_torture.7031.t:0 "Toro de Falaris"
+ advanced_torture.7031.desc:0 "El toro de bronce espera en silencio. Los braseros son avivados alrededor de la figura hueca mientras [advanced_torture_prisoner.GetShortUIName] es llevado hacia la abertura del metal."
+
+ advanced_torture.7032.t:0 "Cuna de Judas"
+ advanced_torture.7032.desc:0 "La cuna se coloca en el centro de la cámara. Las cuerdas son pasadas por las poleas y [advanced_torture_prisoner.GetShortUIName] es elevado lentamente sobre el instrumento."
+
+ advanced_torture.7033.t:0 "Pera de la Angustia"
+ advanced_torture.7033.desc:0 "El instrumento se muestra antes de usarse. Su mecanismo se abre y se cierra con movimientos pequeños, suficientes para que [advanced_torture_prisoner.GetShortUIName] entienda lo que está por venir."
+
+ advanced_torture.7034.t:0 "Araña de hierro"
+ advanced_torture.7034.desc:0 "La araña de hierro se calienta cerca del brasero. Sus puntas reflejan una luz rojiza mientras los guardias sujetan a [advanced_torture_prisoner.GetShortUIName]."
+
+ advanced_torture.7035.t:0 "Silla de tortura"
+ advanced_torture.7035.desc:0 "La silla de clavos espera inmóvil. No requiere mecanismo complejo: solo correas, peso y tiempo. Los guardias empujan a [advanced_torture_prisoner.GetShortUIName] hacia ella."
+
+ advanced_torture.7036.t:0 "Aplastador de cráneos"
+ advanced_torture.7036.desc:0 "El instrumento se coloca sobre la mesa con un ruido seco de hierro. Los carceleros preparan el tornillo mientras [advanced_torture_prisoner.GetShortUIName] es obligado a arrodillarse."

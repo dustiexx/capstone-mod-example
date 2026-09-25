@@ -1,0 +1,68 @@
+﻿l_russian:
+ advanced_torture.scene.proceed:0 "Приступайте"
+
+ advanced_torture.7001.t:0 "Порка плетью"
+ advanced_torture.7001.desc:0 "Стражи волокут [advanced_torture_prisoner.GetShortUIName] к сырому столбу в темнице. Ремни затягивают на [Select_CString(advanced_torture_prisoner.IsFemale, 'её', 'его')] запястьях, пока плеть медленно разматывают."
+
+ advanced_torture.7002.t:0 "Клеймение"
+ advanced_torture.7002.desc:0 "В камере пылает жаровня. Один из тюремщиков берёт клеймо и оставляет его в углях, пока металл не начинает светиться. [advanced_torture_prisoner.GetShortUIName] понимает наказание, ещё не чувствуя его."
+
+ advanced_torture.7003.t:0 "Колодки для ног"
+ advanced_torture.7003.desc:0 "Колодки открываются с тяжёлым скрипом. Стражи заставляют [advanced_torture_prisoner.GetShortUIName] сесть на холодный камень и помещают [Select_CString(advanced_torture_prisoner.IsFemale, 'её', 'его')] лодыжки между стёртыми брусьями."
+
+ advanced_torture.7004.t:0 "Позорный проход"
+ advanced_torture.7004.desc:0 "Дверь камеры открывается. Стражи готовят [advanced_torture_prisoner.GetShortUIName] к тому, чтобы показать перед другими — не как [Select_CString(advanced_torture_prisoner.IsFemale, 'дворянку', 'дворянина')] или [Select_CString(advanced_torture_prisoner.IsFemale, 'почётную узницу', 'почётного узника')], а как живое предупреждение."
+
+ advanced_torture.7011.t:0 "Бастинадо"
+ advanced_torture.7011.desc:0 "Ноги [advanced_torture_prisoner.GetShortUIName] крепко зафиксированы. Прутья кладут рядом со скамьёй, готовые превратить каждый будущий шаг в память о наказании."
+
+ advanced_torture.7012.t:0 "Водная пытка"
+ advanced_torture.7012.desc:0 "Тюремщики готовят пропитанную ткань и несколько кувшинов с водой. [advanced_torture_prisoner.GetShortUIName] запрокидывают на спину, лицо открыто, руки держат цепи."
+
+ advanced_torture.7013.t:0 "Сдавливающие верёвки"
+ advanced_torture.7013.desc:0 "Верёвки разматывают на маленьком столе. Они выглядят безобидно, но стражи обращаются с ними с точностью тех, кто знает: для боли не нужно лезвие."
+
+ advanced_torture.7014.t:0 "Страппадо"
+ advanced_torture.7014.desc:0 "Верёвка свисает со старого блока. Стражи связывают руки [advanced_torture_prisoner.GetShortUIName] за спиной и проверяют механизм на весу, прежде чем поднять [Select_CString(advanced_torture_prisoner.IsFemale, 'её', 'его')]."
+
+ advanced_torture.7015.t:0 "Тиски для пальцев"
+ advanced_torture.7015.desc:0 "Маленькое железное устройство кладут на стол. [advanced_torture_prisoner.GetShortUIName] смотрит вниз на свои руки, пока тюремщики с пугающим спокойствием готовят винт."
+
+ advanced_torture.7016.t:0 "Короткая дыба"
+ advanced_torture.7016.desc:0 "Скамье не хватает величия дыбы, но её ремни крепки и близки. [advanced_torture_prisoner.GetShortUIName] кладут на скамью, запястья и лодыжки связывают."
+
+ advanced_torture.7021.t:0 "Дыба"
+ advanced_torture.7021.desc:0 "Дыба возвышается в камере как машина послушания. Стражи привязывают [advanced_torture_prisoner.GetShortUIName] за запястья и лодыжки, пока механизм ждёт первого поворота."
+
+ advanced_torture.7022.t:0 "Сапог с клиньями"
+ advanced_torture.7022.desc:0 "Ногу [advanced_torture_prisoner.GetShortUIName] помещают в сапог из железа. Клинья лежат рядом, готовые быть вбитыми удар за ударом."
+
+ advanced_torture.7023.t:0 "Крысиная пытка"
+ advanced_torture.7023.desc:0 "Тюремщики приносят закрытое ведро, из которого доносится беспокойное царапанье. [advanced_torture_prisoner.GetShortUIName] напрягается от движения внутри."
+
+ advanced_torture.7024.t:0 "Вырывание глаза"
+ advanced_torture.7024.desc:0 "Инструменты раскладывают под холодным светом темницы. Стражи держат голову [advanced_torture_prisoner.GetShortUIName], не давая отвести взгляд."
+
+ advanced_torture.7025.t:0 "Ампутация ноги"
+ advanced_torture.7025.desc:0 "Камеру готовят как комнату наказания и увечья. Ремни затягивают, инструменты раскладывают рядом с [advanced_torture_prisoner.GetShortUIName]."
+
+ advanced_torture.7026.t:0 "Ногтевые иглы"
+ advanced_torture.7026.desc:0 "Ногтевые иглы выложены на столе. Стражи принудительно вытягивают руки [advanced_torture_prisoner.GetShortUIName] вперёд."
+
+ advanced_torture.7031.t:0 "Медный бык"
+ advanced_torture.7031.desc:0 "Медный бык ждёт в тишине. Жаровни разожжены вокруг полой фигуры, пока [advanced_torture_prisoner.GetShortUIName] ведут к металлическому отверстию."
+
+ advanced_torture.7032.t:0 "Колыбель Иуды"
+ advanced_torture.7032.desc:0 "Колыбель устанавливают в центре камеры. Верёвки пропускают через блоки, и [advanced_torture_prisoner.GetShortUIName] медленно поднимают над инструментом."
+
+ advanced_torture.7033.t:0 "Груша страданий"
+ advanced_torture.7033.desc:0 "Инструмент показывают перед использованием. Его механизм открывается и закрывается маленькими движениями, достаточными, чтобы [Select_CString(advanced_torture_prisoner.IsFemale, 'узница поняла', 'узник понял')], что грядёт."
+
+ advanced_torture.7034.t:0 "Железный паук"
+ advanced_torture.7034.desc:0 "Железного паука раскаляют у жаровни. Его шипы отражают красноватый свет, пока стражи удерживают [advanced_torture_prisoner.GetShortUIName]."
+
+ advanced_torture.7035.t:0 "Стул пыток"
+ advanced_torture.7035.desc:0 "Стул с гвоздями ждёт неподвижно. Ему не нужен сложный механизм: только ремни, вес и время. Стражи толкают [advanced_torture_prisoner.GetShortUIName] к нему."
+
+ advanced_torture.7036.t:0 "Давилка для черепа"
+ advanced_torture.7036.desc:0 "Инструмент кладут на стол с сухим железным звуком. Тюремщики готовят винт, пока [advanced_torture_prisoner.GetShortUIName] заставляют встать на колени."

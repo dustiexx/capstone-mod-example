@@ -1,0 +1,49 @@
+﻿l_spanish:
+ advanced_torture_interaction:0 "Tortura avanzada"
+ advanced_torture_interaction_desc:0 "Somete a [recipient.GetShortUINameNoTooltip] a un tormento elegido desde un menú de torturas avanzadas."
+
+ advanced_torture_cooldown:0 "Tortura reciente"
+ advanced_torture_cooldown_desc:0 "Este personaje ha sido torturado recientemente y no puede ser sometido de nuevo a otra sesión de tortura avanzada por ahora."
+
+ advanced_torture_recently_tortured:0 "Torturado recientemente"
+ advanced_torture_recently_tortured_desc:0 "Este personaje ha sufrido una tortura reciente. El dolor, el miedo y las heridas todavía pesan sobre su cuerpo y su ánimo."
+
+ advanced_torture_recovery_minor:0 "Recuperación de tortura leve"
+ advanced_torture_recovery_minor_desc:0 "Este personaje se recupera de un tormento menor. Las marcas son visibles, pero el daño no parece irreversible."
+
+ advanced_torture_recovery_medium:0 "Recuperación de tortura media"
+ advanced_torture_recovery_medium_desc:0 "Este personaje se recupera de una tortura seria. El cuerpo sigue debilitado y la mente conserva el recuerdo del suplicio."
+
+ advanced_torture_recovery_severe:0 "Recuperación de tortura severa"
+ advanced_torture_recovery_severe_desc:0 "Este personaje arrastra las consecuencias de una tortura brutal. Las heridas, el miedo y la humillación han dejado una marca profunda."
+
+ advanced_torture_tortured_me_opinion:0 "Me torturó"
+ advanced_torture_tortured_family_member_opinion:0 "Torturó a un familiar"
+
+ advanced_torture_house_relation_torture_minor_desc:0 "Tortura leve contra un miembro de la casa"
+ advanced_torture_house_relation_torture_medium_desc:0 "Tortura contra un miembro de la casa"
+ advanced_torture_house_relation_torture_severe_desc:0 "Tortura severa contra un miembro de la casa"
+
+ advanced_torture.menu.back:0 "Volver"
+ advanced_torture_unique_slot_01:0 "Torturas de dragón"
+ advanced_torture_unique_slot_02:0 "Torturas culturales"
+ advanced_torture_unique_slot_03:0 "Torturas de casa"
+ advanced_torture_unique_slot_04:0 "Espacio único vacío"
+ advanced_torture_unique_slot_05:0 "Espacio único vacío"
+
+ advanced_torture_light_torture_tt:0 "Una tortura leve. Provoca daño menor, humillación y resentimiento, pero rara vez deja consecuencias permanentes."
+ advanced_torture_medium_torture_tt:0 "Una tortura media. Puede causar heridas, deterioro físico, miedo duradero y una mayor probabilidad de revelar secretos."
+ advanced_torture_strong_torture_tt:0 "Una tortura fuerte. Puede dejar secuelas graves, mutilaciones, enfermedades, daño mental o incluso la muerte accidental."
+ advanced_torture_sadistic_torture_tt:0 "Una tortura sádica. Solo quienes poseen una crueldad excepcional pueden ordenar estos tormentos sin retroceder."
+ advanced_torture_enucleation_tt:0 "Arranca un ojo al prisionero. No puede usarse contra personajes que ya sean tuertos o ciegos."
+ advanced_torture_leg_amputation_tt:0 "Amputa una pierna al prisionero. No puede usarse contra personajes que ya hayan perdido una pierna."
+ advanced_torture_tortured_to_survive:0 "Torturado para vivir"
+ advanced_torture_tortured_to_survive_desc:0 "Este prisionero está siendo mantenido al borde de la muerte por un torturador experto, no por misericordia, sino para prolongar el tormento."
+ advanced_torture_tortured_me_light_opinion:0 "Me torturó"
+ advanced_torture_tortured_me_medium_opinion:0 "Me torturó"
+ advanced_torture_tortured_me_severe_opinion:0 "Me torturó"
+ advanced_torture_tortured_me_sadistic_opinion:0 "Me torturó"
+ advanced_torture_tortured_family_member_light_opinion:0 "Torturó a un familiar"
+ advanced_torture_tortured_family_member_medium_opinion:0 "Torturó a un familiar"
+ advanced_torture_tortured_family_member_severe_opinion:0 "Torturó a un familiar"
+ advanced_torture_tortured_family_member_sadistic_opinion:0 "Torturó a un familiar"

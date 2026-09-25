@@ -1,0 +1,111 @@
+﻿l_russian:
+ advanced_torture_long_sleep_3_tt:0 "Вы приказываете лишить сна на три дня. [Select_CString(advanced_torture_prisoner.IsFemale, 'Узница', 'Узник')] будет [Select_CString(advanced_torture_prisoner.IsFemale, 'истощена', 'истощен')] и может сломаться до окончания срока."
+ advanced_torture_long_sleep_5_tt:0 "Вы приказываете лишить сна на пять дней. Риск психического и физического вреда возрастает."
+ advanced_torture_long_sleep_7_tt:0 "Вы приказываете лишить сна на семь дней. Последствия могут быть тяжёлыми."
+ advanced_torture_long_sleep_10_tt:0 "Вы приказываете лишить сна на десять дней. Если [Select_CString(advanced_torture_prisoner.IsFemale, 'узница', 'узник')] накопит двадцать или более дней без сна, [Select_CString(advanced_torture_prisoner.IsFemale, 'она', 'он')] неизбежно умрёт."
+
+ advanced_torture_long_dark_cell_15_tt:0 "Вы закроете [Select_CString(advanced_torture_prisoner.IsFemale, 'узницу', 'узника')] в тёмной камере на пятнадцать дней. Изоляция может сломить [Select_CString(advanced_torture_prisoner.IsFemale, 'её', 'его')] дух."
+ advanced_torture_long_dark_cell_30_tt:0 "Вы закроете [Select_CString(advanced_torture_prisoner.IsFemale, 'узницу', 'узника')] в тёмной камере на тридцать дней. Изоляция может вытянуть секреты или мольбы."
+ advanced_torture_long_dark_cell_60_tt:0 "Вы закроете [Select_CString(advanced_torture_prisoner.IsFemale, 'узницу', 'узника')] в тёмной камере на шестьдесят дней. Психический вред будет очень высоким."
+ advanced_torture_long_dark_cell_90_tt:0 "Вы закроете [Select_CString(advanced_torture_prisoner.IsFemale, 'узницу', 'узника')] в тёмной камере на девяносто дней. Примерно на пятьдесят седьмой день [Select_CString(advanced_torture_prisoner.IsFemale, 'она', 'он')] может сломаться, взмолиться или раскрыть секрет."
+
+ advanced_torture_long_starvation_5_tt:0 "Вы обделяете [Select_CString(advanced_torture_prisoner.IsFemale, 'узницу', 'узника')] едой на пять дней. [Select_CString(advanced_torture_prisoner.IsFemale, 'Её', 'Его')] тело начнёт слабеть."
+ advanced_torture_long_starvation_15_tt:0 "Вы обделяете [Select_CString(advanced_torture_prisoner.IsFemale, 'узницу', 'узника')] едой на пятнадцать дней. Голод может сломить и тело, и волю."
+ advanced_torture_long_starvation_30_tt:0 "Вы обделяете [Select_CString(advanced_torture_prisoner.IsFemale, 'узницу', 'узника')] едой на тридцать дней. Последствия могут стать необратимыми."
+ advanced_torture_long_starvation_50_tt:0 "Вы обделяете [Select_CString(advanced_torture_prisoner.IsFemale, 'узницу', 'узника')] едой на пятьдесят дней. Выживание будет под вопросом, а вред — крайним."
+
+ advanced_torture_long_suspension_1_tt:0 "Вы подвесите [Select_CString(advanced_torture_prisoner.IsFemale, 'узницу', 'узника')] на один день. Боль будет интенсивной, но всё ещё контролируемой."
+ advanced_torture_long_suspension_3_tt:0 "Вы подвесите [Select_CString(advanced_torture_prisoner.IsFemale, 'узницу', 'узника')] на три дня. [Select_CString(advanced_torture_prisoner.IsFemale, 'её', 'его')] конечности начнут отказывать."
+ advanced_torture_long_suspension_5_tt:0 "Вы подвесите [Select_CString(advanced_torture_prisoner.IsFemale, 'узницу', 'узника')] на пять дней. Ущерб суставам может быть тяжёлым."
+ advanced_torture_long_suspension_7_tt:0 "Вы подвесите [Select_CString(advanced_torture_prisoner.IsFemale, 'узницу', 'узника')] на семь дней. Пытка может оставить [Select_CString(advanced_torture_prisoner.IsFemale, 'её', 'его')] [Select_CString(advanced_torture_prisoner.IsFemale, 'искалеченной', 'искалеченным')]."
+
+ advanced_torture.6001.t:0 "Длительные пытки"
+ advanced_torture.6001.desc:0 "Не всякое мучение заканчивается за одну сессию. Некоторые требуют множества дней заточения, ожидания, изнеможения и страха. [Select_CString(advanced_torture_prisoner.IsFemale, 'Узница', 'Узник')] будет страдать не только от боли текущего момента, но и от неизвестности — когда же это кончится."
+ advanced_torture.6001.sleep_deprivation:0 "Лишение сна"
+ advanced_torture.6001.dark_cell:0 "Тёмная камера"
+ advanced_torture.6001.starvation:0 "Голод и жажда"
+ advanced_torture.6001.prolonged_suspension:0 "Подвешивание"
+
+ advanced_torture.6002.t:0 "Лишение сна"
+ advanced_torture.6002.desc:0 "Лишению сна не нужны лезвия или жаровни. Свет, шум, вопросы, шаги в темноте и руки, будящие [Select_CString(advanced_torture_prisoner.IsFemale, 'узницу', 'узника')] всякий раз, когда [Select_CString(advanced_torture_prisoner.IsFemale, 'её', 'его')] тело пытается скрыться во сне, — этого достаточно. Выберите, как долго продлится бдение."
+ advanced_torture.6002.three_days:0 "Три дня"
+ advanced_torture.6002.five_days:0 "Пять дней"
+ advanced_torture.6002.seven_days:0 "Семь дней"
+ advanced_torture.6002.ten_days:0 "Десять дней"
+
+ advanced_torture.6003.t:0 "Тёмная камера"
+ advanced_torture.6003.desc:0 "Тёмная камера наказывает не сразу. Она наказывает через отсутствие: света, ясных голосов, уверенности в том, сколько дней прошло. Внутри даже тишина может звучать устрашающе."
+ advanced_torture.6003.fifteen_days:0 "Пятнадцать дней"
+ advanced_torture.6003.thirty_days:0 "Тридцать дней"
+ advanced_torture.6003.sixty_days:0 "Шестьдесят дней"
+ advanced_torture.6003.ninety_days:0 "Девяносто дней"
+
+ advanced_torture.6004.t:0 "Голод и жажда"
+ advanced_torture.6004.desc:0 "Голод не приходит быстро. Он наступает медленно, сжимает живот, сушит рот и превращает каждый запах, каждый кувшин с водой и каждый уносимый поднос в жестокое желание."
+ advanced_torture.6004.five_days:0 "Пять дней"
+ advanced_torture.6004.fifteen_days:0 "Пятнадцать дней"
+ advanced_torture.6004.thirty_days:0 "Тридцать дней"
+ advanced_torture.6004.fifty_days:0 "Пятьдесят дней"
+
+ advanced_torture.6005.t:0 "Длительное подвешивание"
+ advanced_torture.6005.desc:0 "Верёвки затягиваются, пока ноги едва касаются пола или вовсе его не покидают. Сначала болит тело. Затем — плечи, дыхание, нервы, ожидание и уверенность, что никто не опустит, пока вы не прикажете."
+ advanced_torture.6005.one_day:0 "Один день"
+ advanced_torture.6005.three_days:0 "Три дня"
+ advanced_torture.6005.five_days:0 "Пять дней"
+ advanced_torture.6005.seven_days:0 "Семь дней"
+
+ advanced_torture.6201.t:0 "Бессонница окончена"
+ advanced_torture.6201.desc:0 "После проведенных дней без сна  [advanced_torture_prisoner.GetShortUIName] едва может удерживать взгляд. Ответы приходят с опозданием, руки дрожат, и каждое моргание кажется поражением. Тело ещё живёт, но разум доведён до грани срыва."
+ advanced_torture.6201.a:0 "Пусть поспит, если ещё способен."
+
+ advanced_torture.6202.t:0 "Камера открывается"
+ advanced_torture.6202.desc:0 "Когда дверь снова открывается, [advanced_torture_prisoner.GetShortUIName] выходит из тьмы ослабленным телом и сломленной волей. Свет ранит глаза, словно обжигающие угли, и на мгновение [Select_CString(advanced_torture_prisoner.IsFemale, 'она', 'он')] не может отличить свободу, наказание и сон."
+ advanced_torture.6202.a:0 "Тьма учит послушанию."
+
+ advanced_torture.6203.t:0 "Голод и жажда"
+ advanced_torture.6203.desc:0 "Дни лишения превратили [advanced_torture_prisoner.GetShortUIName] в измождённую тень. Голод и жажда не оставили чистых ран, но оставили слабость, которую нелегко забыть."
+ advanced_torture.6203.a:0 "Нужда тоже может быть цепью."
+
+ advanced_torture.6204.t:0 "Подвешивание окончено"
+ advanced_torture.6204.desc:0 "Длительное подвешивание закончилось. [advanced_torture_prisoner.GetShortUIName] падает с изувеченным телом, дрожащими конечностями и выражением, не требующим слов."
+ advanced_torture.6204.a:0 "Пусть помнит каждый миг."
+
+ advanced_torture.6301.t:0 "Сломленный бодрствованием"
+ advanced_torture.6301.desc:0 "[advanced_torture_prisoner.GetShortUIName] больше не знает, говорит ли [Select_CString(advanced_torture_prisoner.IsFemale, 'она', 'он')] с вами, с тюремщиками или с тенями, движущимися по стенам. Между бессвязными фразами и сбивчивыми мольбами вырываются имена, страхи и полуправда. [Select_CString(advanced_torture_prisoner.IsFemale, 'Она', 'Он')] может выдержать ещё, но что-то внутри уже сломалось."
+ advanced_torture.6301.release:0 "Освободить от бдения"
+ advanced_torture.6301.continue:0 "Продолжить"
+ advanced_torture.6301.extend:0 "Добавить ещё три дня"
+
+ advanced_torture.6302.t:0 "Голос во тьме"
+ advanced_torture.6302.desc:0 "Из тёмной камеры раздаётся неузнаваемый голос. [advanced_torture_prisoner.GetShortUIName] умоляет, признаётся, противоречит себе и обещает, что угодно в обмен на лучик света. Тьма ещё не закончила свою работу, но уже открыла глубокие трещины."
+ advanced_torture.6302.release:0 "Открыть дверь"
+ advanced_torture.6302.continue:0 "Оставить во тьме"
+ advanced_torture.6302.extend:0 "Добавить ещё пятнадцать дней"
+
+ advanced_torture.6303.t:0 "Мольба голода"
+ advanced_torture.6303.desc:0 "Голос [advanced_torture_prisoner.GetShortUIName] — не более чем сухая нить. [Select_CString(advanced_torture_prisoner.IsFemale, 'Она', 'Он')] просит воды, еды или смерти; иногда предлагает секреты, иногда обвиняет призраков. Голод превратил каждое слово в монету."
+ advanced_torture.6303.release:0 "Накормить и отпустить"
+ advanced_torture.6303.continue:0 "Пусть голод продолжит говорить"
+ advanced_torture.6303.extend:0 "Добавить ещё пять дней"
+
+ advanced_torture.6304.t:0 "Верёвки и признания"
+ advanced_torture.6304.desc:0 "Верёвки сделали свою работу медленно. [advanced_torture_prisoner.GetShortUIName] больше не проклинает и не бросает вызов; [Select_CString(advanced_torture_prisoner.IsFemale, 'она', 'он')] только тяжело дышит, умоляет опустить [Select_CString(advanced_torture_prisoner.IsFemale, 'её', 'его')] и [Select_CString(advanced_torture_prisoner.IsFemale, 'обронила', 'обранил')] слова, которые никогда не [Select_CString(advanced_torture_prisoner.IsFemale, 'произнесла', 'произнес')] бы стоя."
+ advanced_torture.6304.release:0 "Опустить"
+ advanced_torture.6304.continue:0 "Оставить висеть"
+ advanced_torture.6304.extend:0 "Добавить ещё один день"
+
+ advanced_torture.6401.t:0 "Бдение начинается"
+ advanced_torture.6401.desc:0 "Приказ отдан тихо, но стражи его хорошо понимают. [advanced_torture_prisoner.GetTitledFirstName] будет бодрствовать под светом факелов, криками команд, холодной водой и внезапными хлопками по плечу. Каждый раз, когда сон подступает, кто-то будет рядом, чтобы отогнать его."
+ advanced_torture.6401.a:0 "Пусть никто не даст [Select_CString(advanced_torture_prisoner.IsFemale, 'ей', 'ему')] уснуть"
+
+ advanced_torture.6402.t:0 "Дверь запечатана"
+ advanced_torture.6402.desc:0 "Камеру готовят без церемоний. Последний свет уносят, дверь закрывают, а стражам приказывают не отвечать ни на какие мольбы, кроме тех, что прозвучат по вашему приказу. Во тьме у [advanced_torture_prisoner.GetTitledFirstName] будут только тишина и воображение."
+ advanced_torture.6402.a:0 "Оставить [Select_CString(advanced_torture_prisoner.IsFemale, 'её', 'его')] во тьме"
+
+ advanced_torture.6403.t:0 "Паёк отменён"
+ advanced_torture.6403.desc:0 "Тюремщики убирают подносы прежде, чем те станут утешением. Воды ровно столько, чтобы жить, а еда запрещена, и каждая чаша, пронесённая мимо решётки, становится ещё одним орудием послушания. Тело [advanced_torture_prisoner.GetTitledFirstNamePossessive] узнает цену вашему терпению прежде, чем испробует милость."
+ advanced_torture.6403.a:0 "Пусть голод сделает своё дело"
+
+ advanced_torture.6404.t:0 "Подъём на верёвках"
+ advanced_torture.6404.desc:0 "Верёвки впиваются в плоть, когда [advanced_torture_prisoner.GetTitledFirstName] поднимают так, что стоять уже невозможно. Стражам приказано следить за узлами, а не за криками. Мучение закончится только тогда, когда ваш приказ достигнет темницы."
+ advanced_torture.6404.a:0 "Держать [Select_CString(advanced_torture_prisoner.IsFemale, 'её', 'его')] на верёвках"

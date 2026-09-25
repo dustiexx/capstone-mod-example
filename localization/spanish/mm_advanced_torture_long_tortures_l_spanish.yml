@@ -1,0 +1,111 @@
+﻿l_spanish:
+ advanced_torture_long_sleep_3_tt:0 "Iniciarás una privación de sueño de tres días. El prisionero quedará agotado y podrá romperse antes de terminar."
+ advanced_torture_long_sleep_5_tt:0 "Iniciarás una privación de sueño de cinco días. El riesgo de daño mental y físico será mayor."
+ advanced_torture_long_sleep_7_tt:0 "Iniciarás una privación de sueño de siete días. Las consecuencias pueden ser graves."
+ advanced_torture_long_sleep_10_tt:0 "Iniciarás una privación de sueño de diez días. Si el prisionero acumula veinte días o más sin dormir, morirá inevitablemente."
+
+ advanced_torture_long_dark_cell_15_tt:0 "Encerrarás al prisionero en una celda oscura durante quince días. El aislamiento puede quebrar su ánimo."
+ advanced_torture_long_dark_cell_30_tt:0 "Encerrarás al prisionero en una celda oscura durante treinta días. El aislamiento puede arrancar secretos o súplicas."
+ advanced_torture_long_dark_cell_60_tt:0 "Encerrarás al prisionero en una celda oscura durante sesenta días. El daño mental será muy elevado."
+ advanced_torture_long_dark_cell_90_tt:0 "Encerrarás al prisionero en una celda oscura durante noventa días. Hacia el día cincuenta y siete puede romperse, suplicar o revelar un secreto."
+
+ advanced_torture_long_starvation_5_tt:0 "Privarás al prisionero de comida suficiente durante cinco días. El cuerpo empezará a debilitarse."
+ advanced_torture_long_starvation_15_tt:0 "Privarás al prisionero de comida suficiente durante quince días. El hambre puede quebrar tanto el cuerpo como la voluntad."
+ advanced_torture_long_starvation_30_tt:0 "Privarás al prisionero de comida suficiente durante treinta días. Las consecuencias pueden ser permanentes."
+ advanced_torture_long_starvation_50_tt:0 "Privarás al prisionero de comida suficiente durante cincuenta días. La supervivencia será incierta y el daño será extremo."
+
+ advanced_torture_long_suspension_1_tt:0 "Suspenderás al prisionero durante un día. El dolor será intenso, aunque todavía controlable."
+ advanced_torture_long_suspension_3_tt:0 "Suspenderás al prisionero durante tres días. Los miembros empezarán a fallar."
+ advanced_torture_long_suspension_5_tt:0 "Suspenderás al prisionero durante cinco días. El daño físico puede ser grave."
+ advanced_torture_long_suspension_7_tt:0 "Suspenderás al prisionero durante siete días. La tortura puede dejarlo arruinado."
+
+ advanced_torture.6001.t:0 "Torturas prolongadas"
+ advanced_torture.6001.desc:0 "No todos los tormentos terminan en una sola sesión. Algunos requieren días de encierro, espera, agotamiento y miedo. El prisionero no solo sufrirá el dolor del momento, sino también la incertidumbre de no saber cuándo acabará."
+ advanced_torture.6001.sleep_deprivation:0 "Privación de sueño"
+ advanced_torture.6001.dark_cell:0 "Celda oscura"
+ advanced_torture.6001.starvation:0 "Hambre y sed"
+ advanced_torture.6001.prolonged_suspension:0 "Suspensión prolongada"
+
+ advanced_torture.6002.t:0 "Privación de sueño"
+ advanced_torture.6002.desc:0 "La privación de sueño no necesita cuchillas ni braseros. Basta con luz, ruido, preguntas, pasos en la oscuridad y manos que despierten al prisionero cada vez que su cuerpo intenta rendirse. Elige cuánto tiempo deseas estirar la vigilia."
+ advanced_torture.6002.three_days:0 "Tres días"
+ advanced_torture.6002.five_days:0 "Cinco días"
+ advanced_torture.6002.seven_days:0 "Siete días"
+ advanced_torture.6002.ten_days:0 "Diez días"
+
+ advanced_torture.6003.t:0 "Celda oscura"
+ advanced_torture.6003.desc:0 "La puerta de la celda oscura no castiga de golpe. Castiga por ausencia: sin luz, sin voces claras, sin certeza del paso de los días. Allí dentro, incluso un silencio pequeño puede sonar como una amenaza."
+ advanced_torture.6003.fifteen_days:0 "Quince días"
+ advanced_torture.6003.thirty_days:0 "Treinta días"
+ advanced_torture.6003.sixty_days:0 "Sesenta días"
+ advanced_torture.6003.ninety_days:0 "Noventa días"
+
+ advanced_torture.6004.t:0 "Hambre y sed"
+ advanced_torture.6004.desc:0 "El hambre no grita al principio. Se instala lentamente, aprieta el vientre, seca la boca y convierte cada olor, cada jarra de agua y cada bandeja retirada en una promesa cruel."
+ advanced_torture.6004.five_days:0 "Cinco días"
+ advanced_torture.6004.fifteen_days:0 "Quince días"
+ advanced_torture.6004.thirty_days:0 "Treinta días"
+ advanced_torture.6004.fifty_days:0 "Cincuenta días"
+
+ advanced_torture.6005.t:0 "Suspensión prolongada"
+ advanced_torture.6005.desc:0 "Las cuerdas se tensan hasta que los pies apenas rozan el suelo o desaparecen de él por completo. Al principio duele el cuerpo. Después duelen los hombros, la respiración, los nervios, la espera y la certeza de que nadie bajará al prisionero hasta que tú lo ordenes."
+ advanced_torture.6005.one_day:0 "Un día"
+ advanced_torture.6005.three_days:0 "Tres días"
+ advanced_torture.6005.five_days:0 "Cinco días"
+ advanced_torture.6005.seven_days:0 "Siete días"
+
+ advanced_torture.6201.t:0 "El desvelo termina"
+ advanced_torture.6201.desc:0 "Tras días sin descanso verdadero, [advanced_torture_prisoner.GetShortUIName] apenas puede sostener la mirada. Sus respuestas llegan tarde, sus manos tiemblan y cada parpadeo parece una derrota. El cuerpo sigue vivo, pero la mente ha sido arrastrada hasta el borde de la ruptura."
+ advanced_torture.6201.a:0 "Que duerma, si todavía puede."
+
+ advanced_torture.6202.t:0 "La celda se abre"
+ advanced_torture.6202.desc:0 "Cuando la puerta vuelve a abrirse, [advanced_torture_prisoner.GetShortUIName] emerge de la oscuridad con el cuerpo debilitado y la voluntad erosionada. La luz le hiere los ojos como una acusación, y por un instante parece incapaz de distinguir entre libertad, castigo y sueño."
+ advanced_torture.6202.a:0 "La oscuridad enseña obediencia."
+
+ advanced_torture.6203.t:0 "Hambre y sed"
+ advanced_torture.6203.desc:0 "Los días de privación han reducido a [advanced_torture_prisoner.GetShortUIName] a una sombra agotada. El hambre y la sed no dejaron marcas limpias, pero sí una debilidad que será difícil de olvidar."
+ advanced_torture.6203.a:0 "La necesidad también puede ser una cadena."
+
+ advanced_torture.6204.t:0 "La suspensión termina"
+ advanced_torture.6204.desc:0 "La suspensión prolongada ha terminado. [advanced_torture_prisoner.GetShortUIName] cae con el cuerpo dañado, los miembros temblorosos y una expresión que no necesita palabras."
+ advanced_torture.6204.a:0 "Que recuerde cada instante."
+
+ advanced_torture.6301.t:0 "Roto por el desvelo"
+ advanced_torture.6301.desc:0 "[advanced_torture_prisoner.GetShortUIName] ya no sabe si habla contigo, con sus carceleros o con las sombras que se mueven en los muros. Entre frases sin sentido y súplicas quebradas, deja escapar nombres, miedos y verdades a medias. Todavía puede resistir más, pero algo en su interior ya se ha roto."
+ advanced_torture.6301.release:0 "Sacadlo de la vigilia"
+ advanced_torture.6301.continue:0 "Que continúe"
+ advanced_torture.6301.extend:0 "Añadid tres días más"
+
+ advanced_torture.6302.t:0 "Una voz en la oscuridad"
+ advanced_torture.6302.desc:0 "Desde la celda oscura llega una voz irreconocible. [advanced_torture_prisoner.GetShortUIName] suplica, confiesa, se contradice y promete cualquier cosa a cambio de una rendija de luz. La oscuridad no ha terminado su trabajo, pero ya ha abierto grietas profundas."
+ advanced_torture.6302.release:0 "Abrid la puerta"
+ advanced_torture.6302.continue:0 "Que siga en la oscuridad"
+ advanced_torture.6302.extend:0 "Añadid quince días más"
+
+ advanced_torture.6303.t:0 "La súplica del hambre"
+ advanced_torture.6303.desc:0 "La voz de [advanced_torture_prisoner.GetShortUIName] apenas es más que un hilo seco. Pide agua, comida o muerte; a ratos ofrece secretos, a ratos acusa a fantasmas. El hambre ha convertido cada palabra en una moneda desesperada."
+ advanced_torture.6303.release:0 "Dadle comida y sacadlo"
+ advanced_torture.6303.continue:0 "Que el hambre siga hablando"
+ advanced_torture.6303.extend:0 "Añadid cinco días más"
+
+ advanced_torture.6304.t:0 "Cuerdas y confesiones"
+ advanced_torture.6304.desc:0 "Las cuerdas han hecho su trabajo lentamente. [advanced_torture_prisoner.GetShortUIName] ya no maldice ni desafía; solo respira con dificultad, suplica que lo bajen y deja escapar palabras que quizá nunca habría dicho de pie."
+ advanced_torture.6304.release:0 "Bajadlo"
+ advanced_torture.6304.continue:0 "Que siga colgado"
+ advanced_torture.6304.extend:0 "Añadid un día más"
+
+ advanced_torture.6401.t:0 "Comienza la vigilia"
+ advanced_torture.6401.desc:0 "La orden se da en voz baja, pero los guardias la entienden bien. Mantendrán a [advanced_torture_prisoner.GetTitledFirstName] despierto con antorchas, gritos, agua fría y manos bruscas en los hombros. Cada vez que el sueño se acerque, alguien estará allí para arrancárselo."
+ advanced_torture.6401.a:0 "Que nadie le deje dormir"
+
+ advanced_torture.6402.t:0 "La puerta queda sellada"
+ advanced_torture.6402.desc:0 "La celda se prepara sin ceremonia. Retiran la última luz, cierran la puerta y los guardias reciben la orden de no responder a ninguna súplica salvo por mandato tuyo. En la oscuridad, [advanced_torture_prisoner.GetTitledFirstName] solo tendrá hambre, silencio e imaginación por compañía."
+ advanced_torture.6402.a:0 "Dejadlo a merced de la oscuridad"
+
+ advanced_torture.6403.t:0 "Se retiran las raciones"
+ advanced_torture.6403.desc:0 "Los carceleros retiran las bandejas antes de que puedan convertirse en consuelo. El agua se mide, la comida se niega y cada jarra que pasa ante los barrotes se convierte en otro instrumento de obediencia. El cuerpo de [advanced_torture_prisoner.GetTitledFirstName] aprenderá tu paciencia antes que tu misericordia."
+ advanced_torture.6403.a:0 "Que el hambre haga su trabajo"
+
+ advanced_torture.6404.t:0 "Alzado por las cuerdas"
+ advanced_torture.6404.desc:0 "Las cuerdas muerden la carne cuando [advanced_torture_prisoner.GetTitledFirstName] es alzado hasta que estar de pie resulta imposible y descansar es aún peor. Los guardias reciben la orden de vigilar los nudos, no los gritos. El tormento acabará solo cuando tu orden llegue a la mazmorra."
+ advanced_torture.6404.a:0 "Mantenedlo colgado"

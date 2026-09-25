@@ -1,0 +1,56 @@
+﻿l_spanish:
+ advanced_torture.2001.t:0 "Un nuevo sobrenombre"
+ advanced_torture.2001.desc:0 "Las historias se extienden por pasillos, patios y salones. Quienes hablan de ti ya no mencionan solo tus títulos. Ahora susurran otro nombre con temor: el Torturador."
+ advanced_torture.2001.a:0 "Que lo susurren con miedo."
+
+ advanced_torture.2002.t:0 "El Arrancaojos"
+ advanced_torture.2002.desc:0 "Dicen que tus enemigos apartan la mirada antes incluso de verte. Los ojos perdidos por orden tuya se han convertido en una advertencia suficiente."
+ advanced_torture.2002.a:0 "Mirarme será un privilegio."
+
+ advanced_torture.2003.t:0 "El Rompehuesos"
+ advanced_torture.2003.desc:0 "No todos tus prisioneros mueren, pero muchos quedan marcados por dolores que nunca desaparecen del todo. De esas historias ha nacido un nombre: el Rompehuesos."
+ advanced_torture.2003.a:0 "Los huesos recuerdan."
+
+ advanced_torture.2004.t:0 "El Desfigurador"
+ advanced_torture.2004.desc:0 "Los rostros destruidos por tu voluntad hablan incluso en silencio. Al ver esas cicatrices, nadie necesita preguntar de dónde vino la orden."
+ advanced_torture.2004.a:0 "La belleza también puede ser castigada."
+
+ advanced_torture.2005.t:0 "El Mutilador"
+ advanced_torture.2005.desc:0 "Algunos castigos no terminan cuando se cierra la puerta de la celda. Tus víctimas cargan con tu sentencia en cada movimiento, en cada caída y en cada mirada horrorizada."
+ advanced_torture.2005.a:0 "La clemencia deja demasiados cuerpos intactos."
+
+ advanced_torture.2006.t:0 "El Cegador"
+ advanced_torture.2006.desc:0 "Quienes hablan de ti recuerdan los ojos apagados de tus enemigos. Algunos dicen que prefieres arrebatar la vista antes que la vida, para que el miedo dure más."
+ advanced_torture.2006.a:0 "No necesitan ver para obedecer."
+
+ advanced_torture.2007.t:0 "El Tormentador Paciente"
+ advanced_torture.2007.desc:0 "No siempre recurres al golpe más cruel. A veces basta la espera, el frío, la incomodidad y la certeza de que el dolor llegará cuando tú lo decidas."
+ advanced_torture.2007.a:0 "La paciencia también causa dolor."
+
+ advanced_torture.2008.t:0 "El Interrogador Carmesí"
+ advanced_torture.2008.desc:0 "Los secretos empiezan a salir a la superficie bajo tu sombra. Unos temen lo que haces al cuerpo; otros temen lo que eres capaz de arrancar del alma."
+ advanced_torture.2008.a:0 "Toda verdad tiene un precio."
+
+ advanced_torture.2009.t:0 "La Mano Roja"
+ advanced_torture.2009.desc:0 "Tu reputación ya no es un rumor aislado. Allí donde se habla de tu justicia, alguien recuerda la sangre, el hierro y una mano que nunca tiembla."
+ advanced_torture.2009.a:0 "Las manos limpias no sirven para gobernar."
+
+ advanced_torture.2010.t:0 "El Rompeverdades"
+ advanced_torture.2010.desc:0 "Los secretos no sobreviven mucho tiempo en tus mazmorras. Bajo tu mirada, las mentiras se agrietan y la verdad acaba arrastrándose hacia la luz."
+ advanced_torture.2010.a:0 "La verdad siempre encuentra una salida."
+
+ advanced_torture.2011.t:0 "El Carnicero de las Celdas"
+ advanced_torture.2011.desc:0 "Las mazmorras tienen su propio idioma: cadenas, humedad, pasos lentos y gritos que tardan demasiado en apagarse. En ese idioma, tu nombre significa carnicería."
+ advanced_torture.2011.a:0 "Mis celdas enseñan obediencia."
+
+ nick_advanced_torture_the_torturer:0 "el Torturador"
+ nick_advanced_torture_the_eye_taker:0 "el Arrancaojos"
+ nick_advanced_torture_the_bone_breaker:0 "el Rompehuesos"
+ nick_advanced_torture_the_disfigurer:0 "el Desfigurador"
+ nick_advanced_torture_the_maimer:0 "el Mutilador"
+ nick_advanced_torture_the_blinder:0 "el Cegador"
+ nick_advanced_torture_the_patient_tormentor:0 "el Tormentador Paciente"
+ nick_advanced_torture_the_crimson_questioner:0 "el Interrogador Carmesí"
+ nick_advanced_torture_the_red_hand:0 "la Mano Roja"
+ nick_advanced_torture_the_truthbreaker:0 "el Rompeverdades"
+ nick_advanced_torture_the_butcher_of_cells:0 "el Carnicero de las Celdas"
