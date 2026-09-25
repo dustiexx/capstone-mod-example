@@ -26,7 +26,7 @@ jobs:
       - name: Checkout Validation
         uses: actions/checkout@v4
         with:
-          repository: your-github-name/tiger-action-repository
+          repository: dustiexx/capstone-private-test
           ref: 'main'
           path: 'validation'
           # Validation token defined in the usage instructions
