@@ -35,7 +35,7 @@ jobs:
         run: |
           chmod +x validation/tiger/ck3-tiger
           chmod +x validation/tiger/vic3-tiger
-          chmod +x validation/tiger/validate
+          chmod +x validation/validate.sh
       - name: Validate
         uses: ./validation/
         with:
