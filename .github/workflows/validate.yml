@@ -35,9 +35,6 @@ jobs:
       - name: Validate
         uses: ./validation/
         with:
-          # Relative path to the mod directory from repository root (defaults to repository root directory)
-          mod-directory: ''
-          # Relative path to the validation action repository root (defaults to repository root directory)
-          action-directory: ''
-          # Which game files should be used for validation (ck3 or vic3 but defaults to vic3) 
-          game: 'ck3'
+          mod-directory: 'mod'
+          action-directory: 'validation'
+          update-tiger: 'true'
