@@ -39,7 +39,7 @@ jobs:
       - name: Validate
         uses: ./validation/
         with:
-          mod-directory: 'mod'
+          mod-directory: '.'
           action-directory: 'validation'
           update-tiger: 'true'
           game: 'ck3'
